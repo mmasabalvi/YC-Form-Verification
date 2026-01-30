@@ -1,0 +1,398 @@
+{
+  "timestamp": "20260127_172038",
+  "kyc_id": "kyc_1769515461",
+  "verified_profile": {
+    "full_name": "Hammad Ahmed Rafiq",
+    "cnic": "61101-0840027-1",
+    "iban": "PK83UNIL0109000325438854",
+    "bank_name": "United Bank (UBL)",
+    "mobile": "+92-320 0811022",
+    "father_husband_name": "Muhammad Rafiq Alvi",
+    "mother_maiden_name": "Rashida",
+    "dob": "03.01.1974",
+    "place_of_birth": "Rawalpindi",
+    "gender": "male",
+    "marital_status": "married",
+    "nationality": "Pakistan",
+    "religion": "Islam",
+    "permanent_address_full": "DHA Phase 1, House No. 6, Street No. 5, Sector D, Islamabad., Islamabad, Federal, Pakistan",
+    "perm_country": "Pakistan",
+    "perm_province": "Federal",
+    "perm_city": "Islamabad",
+    "perm_addr1": "DHA Phase 1",
+    "perm_addr2": "House No. 6",
+    "perm_addr3": "Street No. 5, Sector D, Islamabad.",
+    "mailing_address_same": true,
+    "mailing_address_full": "DHA Phase 1, House No. 6, Street No. 5, Sector D, Islamabad., Islamabad, Federal, Pakistan",
+    "mail_country": "Pakistan",
+    "mail_province": "Federal",
+    "mail_city": "Islamabad",
+    "mail_addr1": "DHA Phase 1",
+    "mail_addr2": "House No. 6",
+    "mail_addr3": "Street No. 5, Sector D, Islamabad.",
+    "occupation": "SERVICE",
+    "job_title": "Acting Director",
+    "employer_name": "Air Weapon Complex",
+    "department": "Procurment",
+    "employer_country": "Pakistan",
+    "employer_city": "Waah ",
+    "employer_address": "Waah Cantt",
+    "gross_annual_income": "3,000,001 - 6,000,000",
+    "source_of_income": "Salary",
+    "ntn": "",
+    "tax_year": "",
+    "zakat_status": "non_deductible",
+    "zakat_declaration_date": "19.03.2025",
+    "filer_status": "Filer",
+    "cdc_access": "",
+    "profit_sharing": "",
+    "remittance": "",
+    "add_nominee": false,
+    "nominee_name": null,
+    "nominee_cnic": null,
+    "nominee_mobile": null,
+    "nominee_relation": null,
+    "nominee_cnic_issuance": null,
+    "nominee_cnic_expiry": null,
+    "add_attorney": false,
+    "attorney_name": null,
+    "attorney_cnic": null,
+    "attorney_mobile": null,
+    "attorney_relation": null,
+    "attorney_cnic_issuance": null,
+    "attorney_cnic_expiry": null,
+    "fatca_us_citizen": "no",
+    "fatca_us_country_of_birth": "no",
+    "fatca_power_of_attorney": "no",
+    "fatca_us_address": "no",
+    "fatca_us_telephone": "no",
+    "fatca_tax_residence_country": "PAKISTAN",
+    "fatca_taxpayer_id": "N/A",
+    "is_pep": "no",
+    "pep_details": null,
+    "account_refused": "no",
+    "account_refused_details": null,
+    "offshore_tax_links": "no",
+    "offshore_tax_links_details": null,
+    "high_value_dealing": "no",
+    "high_value_dealing_details": null,
+    "is_dual_national": "no",
+    "dual_nationality_country": null,
+    "account_opening_date": "27.01.2026"
+  },
+  "final_verdict": "REVIEW",
+  "documents": {
+    "cnic_front": {
+      "doc_kind": "cnic_front",
+      "verdict": "PASS",
+      "confidence": 1.0,
+      "extracted": {
+        "name": "Hammad Ahmed Rafiq",
+        "cnic": "61101-0840027-1",
+        "dob": "03.01.1974",
+        "issue_date": "20.04.2022",
+        "expiry_date": "20.04.2032"
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    "cnic_back": {
+      "doc_kind": "cnic_back",
+      "verdict": "PASS",
+      "confidence": 1.0,
+      "extracted": {
+        "cnic": "61101-0840027-1"
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    "proof_of_employment": {
+      "doc_kind": "proof_of_employment",
+      "verdict": "PASS",
+      "confidence": 0.9,
+      "extracted": {
+        "name": "AIR CDRE HAMMAD AHMED RAFIQ",
+        "cnic": "61101-0840027-1",
+        "employer_name": "AIR WEAPONS COMPLEX",
+        "employment_start_date": null,
+        "stamp_present": false,
+        "signature_present": false
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    "proof_of_income": {
+      "doc_kind": "proof_of_income",
+      "verdict": "PASS",
+      "confidence": 1.0,
+      "extracted": {
+        "name": "Hammad Ahmed Rafiq",
+        "cnic": "61101-0840027-1",
+        "income_amount": "316,417.00",
+        "document_date": "February 11, 2025",
+        "stamp_present": true,
+        "signature_present": true,
+        "document_type": "salary"
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "Proof of Income - Salary Slip Verification",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    "signature_proof": {
+      "doc_kind": "signature_proof",
+      "verdict": "PASS",
+      "confidence": 0.0,
+      "extracted": {
+        "signature_present": true,
+        "signature_style": "handwritten"
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    "undertaking": {
+      "doc_kind": "undertaking",
+      "verdict": "REVIEW",
+      "confidence": null,
+      "extracted": null,
+      "issues": [
+        "Document not uploaded"
+      ],
+      "admin_report": {
+        "title": "Missing Document",
+        "issues": [
+          "User did not upload this document."
+        ],
+        "action_required": "Ask user to upload."
+      }
+    },
+    "bank_statement": {
+      "doc_kind": "bank_statement",
+      "verdict": "PASS",
+      "confidence": 0.0,
+      "extracted": {
+        "iban": "PK83UNIL0109000325438854",
+        "bank_name": "United Bank Limited (UBL)",
+        "account_title": "Hammad Ahmed Rafiq",
+        "cnic": null,
+        "computer_generated_phrase_present": "unknown"
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    "tax_return": {
+      "doc_kind": "tax_return",
+      "verdict": "REVIEW",
+      "confidence": null,
+      "extracted": null,
+      "issues": [
+        "Document not uploaded"
+      ],
+      "admin_report": {
+        "title": "Missing Document",
+        "issues": [
+          "User did not upload this document."
+        ],
+        "action_required": "Ask user to upload."
+      }
+    },
+    "zakat_declaration": {
+      "doc_kind": "zakat_declaration",
+      "verdict": "PASS",
+      "confidence": 1.0,
+      "extracted": {
+        "name": "Hammad Ahmed Rafiq",
+        "cnic": "61101-0840027-1",
+        "declaration_date": "19-03-2025",
+        "format_type": "e_stamp_with_qr",
+        "has_signature": true,
+        "has_stamp": true
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "Zakat Declaration Verification Report",
+        "issues": [],
+        "action_required": ""
+      }
+    }
+  },
+  "raw_results": [
+    {
+      "doc_kind": "cnic_front",
+      "verdict": "PASS",
+      "confidence": 1.0,
+      "extracted": {
+        "name": "Hammad Ahmed Rafiq",
+        "cnic": "61101-0840027-1",
+        "dob": "03.01.1974",
+        "issue_date": "20.04.2022",
+        "expiry_date": "20.04.2032"
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    {
+      "doc_kind": "cnic_back",
+      "verdict": "PASS",
+      "confidence": 1.0,
+      "extracted": {
+        "cnic": "61101-0840027-1"
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    {
+      "doc_kind": "proof_of_employment",
+      "verdict": "PASS",
+      "confidence": 0.9,
+      "extracted": {
+        "name": "AIR CDRE HAMMAD AHMED RAFIQ",
+        "cnic": "61101-0840027-1",
+        "employer_name": "AIR WEAPONS COMPLEX",
+        "employment_start_date": null,
+        "stamp_present": false,
+        "signature_present": false
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    {
+      "doc_kind": "proof_of_income",
+      "verdict": "PASS",
+      "confidence": 1.0,
+      "extracted": {
+        "name": "Hammad Ahmed Rafiq",
+        "cnic": "61101-0840027-1",
+        "income_amount": "316,417.00",
+        "document_date": "February 11, 2025",
+        "stamp_present": true,
+        "signature_present": true,
+        "document_type": "salary"
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "Proof of Income - Salary Slip Verification",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    {
+      "doc_kind": "signature_proof",
+      "verdict": "PASS",
+      "confidence": 0.0,
+      "extracted": {
+        "signature_present": true,
+        "signature_style": "handwritten"
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    {
+      "doc_kind": "undertaking",
+      "verdict": "REVIEW",
+      "confidence": null,
+      "extracted": null,
+      "issues": [
+        "Document not uploaded"
+      ],
+      "admin_report": {
+        "title": "Missing Document",
+        "issues": [
+          "User did not upload this document."
+        ],
+        "action_required": "Ask user to upload."
+      }
+    },
+    {
+      "doc_kind": "bank_statement",
+      "verdict": "PASS",
+      "confidence": 0.0,
+      "extracted": {
+        "iban": "PK83UNIL0109000325438854",
+        "bank_name": "United Bank Limited (UBL)",
+        "account_title": "Hammad Ahmed Rafiq",
+        "cnic": null,
+        "computer_generated_phrase_present": "unknown"
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "",
+        "issues": [],
+        "action_required": ""
+      }
+    },
+    {
+      "doc_kind": "tax_return",
+      "verdict": "REVIEW",
+      "confidence": null,
+      "extracted": null,
+      "issues": [
+        "Document not uploaded"
+      ],
+      "admin_report": {
+        "title": "Missing Document",
+        "issues": [
+          "User did not upload this document."
+        ],
+        "action_required": "Ask user to upload."
+      }
+    },
+    {
+      "doc_kind": "zakat_declaration",
+      "verdict": "PASS",
+      "confidence": 1.0,
+      "extracted": {
+        "name": "Hammad Ahmed Rafiq",
+        "cnic": "61101-0840027-1",
+        "declaration_date": "19-03-2025",
+        "format_type": "e_stamp_with_qr",
+        "has_signature": true,
+        "has_stamp": true
+      },
+      "issues": [],
+      "admin_report": {
+        "title": "Zakat Declaration Verification Report",
+        "issues": [],
+        "action_required": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "saved_at": "20260124_015259",
+  "kyc_id": "kyc_1769201557",
+  "verified_profile": {
+    "full_name": "Muhammad Masab Hammad",
+    "cnic": "61101-7033791-9",
+    "iban": "PK15UNIL0109000331896301",
+    "bank_name": "United Bank (UBL)",
+    "mobile": "+92-345 5158459",
+    "mail_address": "",
+    "employer_name": "N/A",
+    "employer_address": "N/A",
+    "ntn": "",
+    "tax_year": "",
+    "self_mobile": false,
+    "relative_name": "Hammad Ahmed Rafiq",
+    "relationship": "Father",
+    "relative_cnic": "61101-7033791-9",
+    "gender": "M",
+    "date_of_birth": "03.08.2004",
+    "permanent_address_translated": "House No. 6, Street No. 5, Sector D, Neighborhood D, H.A. Phase 1, Islamabad",
+    "current_address_english": "House No. 6, Street No. 5, Sector D, Neighborhood D, H.A. Phase 1, Islamabad",
+    "back_cnic_match": true
+  }
+}

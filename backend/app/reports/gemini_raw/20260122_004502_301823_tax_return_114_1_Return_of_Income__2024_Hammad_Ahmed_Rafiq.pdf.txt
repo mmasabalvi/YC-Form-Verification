@@ -1,0 +1,1 @@
+{"ok":true,"doc_kind":"tax_return","verdict":"REVIEW","confidence":0.8,"doc_type_detected":"tax_return","tam

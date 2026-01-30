@@ -1,0 +1,16 @@
+# --- Django backend ---
+Django>=5.0,<6.1
+django-cors-headers>=4.3
+python-dotenv>=1.0
+
+# --- Gemini SDK ---
+google-genai>=0.6.0
+
+# --- Image / PDF processing ---
+opencv-python>=4.8
+numpy>=1.24
+Pillow>=10.0
+pytesseract>=0.3.10
+pypdfium2>=4.30
+pdfplumber>=0.11
+reportlab

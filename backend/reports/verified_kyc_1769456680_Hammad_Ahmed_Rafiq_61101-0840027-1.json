@@ -1,0 +1,26 @@
+{
+  "saved_at": "20260127_004506",
+  "kyc_id": "kyc_1769456680",
+  "verified_profile": {
+    "full_name": "Hammad Ahmed Rafiq",
+    "father_husband_name": "Muhammad Rafiq Alvi",
+    "cnic": "61101-0840027-1",
+    "iban": "PK83UNIL0109000325438854",
+    "bank_name": "United Bank (UBL)",
+    "mobile": "+92-320 0811022",
+    "mail_address": "",
+    "employer_name": "N/A",
+    "employer_address": "N/A",
+    "ntn": "",
+    "tax_year": "",
+    "self_mobile": true,
+    "relative_name": "",
+    "relationship": "",
+    "relative_cnic": "",
+    "gender": "M",
+    "date_of_birth": "03.01.1974",
+    "permanent_address_translated": "House No. 6, Street No. 5, Sector D, DHA Phase 1, Islamabad",
+    "current_address_english": "House No. 6, Street No. 5, Sector D, DHA Phase 1, Islamabad",
+    "back_cnic_match": true
+  }
+}

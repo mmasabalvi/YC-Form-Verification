@@ -1,0 +1,1 @@
+{"ok":true,"doc_kind":"cnic_back","verdict":"PASS","confidence":1.0,"doc_type_detected":"cnic_back","tamper":false,"issues":[],"extracted":{"cnic":"61101-0840027-1"},"admin
