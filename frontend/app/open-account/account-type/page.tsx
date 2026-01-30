@@ -55,7 +55,7 @@ export default function AccountTypePage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
             <Pick
               title="Normal Account"
-              desc="Full-service account with no restrictions."
+              desc="Full-service account with no Investment Limit."
               badge="Standard"
               image="/assets/normal.png"
               selected={atype === "normal"}
@@ -63,7 +63,7 @@ export default function AccountTypePage() {
             />
             <Pick
               title="Sahulat Account"
-              desc="Simplified account with minimal documentation."
+              desc="Open your Sahulat Account by just submitting a copy of your valid CNICMaximum Investment limit Rs 1,000,000"
               badge="Easy"
               image="/assets/sahulat.jpg"
               selected={atype === "sahulat"}
