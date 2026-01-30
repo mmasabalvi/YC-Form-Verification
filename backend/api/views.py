@@ -770,34 +770,7 @@ def submit_kyc(request):
              )
              t.start()
         
-        # Generate Excel report with Name_CNIC_Timestamp format
-        try:
-            from .services.excel_report_service import generate_individual_excel_report
-            import re
-            
-            # Build filename: Name_CNIC_Timestamp.xlsx
-            safe_name = re.sub(r"[^a-zA-Z0-9_\-]", "_", user_name)
-            safe_cnic = re.sub(r"[^a-zA-Z0-9_\-]", "_", user_cnic)
-            ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-            excel_filename = f"{safe_name}_{safe_cnic}_{ts}.xlsx"
-            excel_path = os.path.join(_reports_dir(), excel_filename)
-            
-            # Prepare data for Excel
-            report_data = {
-                "kyc_id": kyc_id,
-                "final_verdict": final_verdict,
-                "timestamp": datetime.now().strftime("%B %d, %Y at %H:%M:%S"),
-                "messages": messages,
-                "verified_profile": verified_profile,
-                "documents": results,
-            }
-            
-            generate_individual_excel_report(report_data, excel_path)
-            log.info(f"Generated Excel report: {excel_path}")
-            
-        except Exception as e:
-            log.error(f"Failed to generate Excel report: {e}")
-            # Continue even if Excel fails
+
 
     return JsonResponse(
         {
